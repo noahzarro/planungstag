@@ -9,3 +9,7 @@ body {
     background-repeat: repeat;
     background-size: 50px 50px;
 }
+
+.btn {
+    margin-top: 10px;
+}
